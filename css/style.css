@@ -1489,7 +1489,8 @@ ul.address li {
     padding: 8px 25px;
 }
 .contact-wthree-right input[type="text"], .contact-wthree-right input[type="email"] { 
-    padding: .6em 0.8em; 
+    padding: .6em 0.8em;
+
 }
 }
 /*-- //responsive-design --*/
